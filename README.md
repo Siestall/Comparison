@@ -1,2 +1,2 @@
 # Comparison
-Программа, в которой пользователь вводит два целых числа, а программа проверяет, какое из чисел больше.
+A program in which the user enters two integers and the program checks which number is larger.
